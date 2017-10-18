@@ -22,4 +22,7 @@ int main(){
 
     std::cout <<"Number of Nodes: "<< countNodes(&A)<<"\n";
 
+
+    return 0;
+
 }
