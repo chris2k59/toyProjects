@@ -1,7 +1,7 @@
 #include <stack>
 #include <iostream>
 #include "trees.h"
-//Implimentaion of Algorithm T from D.Knuth TAOCP pg. 320
+//Implementaion of Algorithm T from D.Knuth TAOCP pg. 320
 //
 
 int countNodes(Node *root){
